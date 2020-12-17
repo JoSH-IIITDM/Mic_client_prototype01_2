@@ -1,0 +1,2 @@
+rootProject.name='Mic_client_prototype01'
+include ':app'
